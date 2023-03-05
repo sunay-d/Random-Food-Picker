@@ -15,7 +15,7 @@ function App() {
   }
 
   return (
-    <div className="App flex flex-col text-center gap-5 pt-8 p-5 w-100 max-w-[640px] m-auto bg-slate-100">
+    <div className="App flex flex-col text-center gap-5 pt-8 p-5 w-100 h-screen max-w-[640px] m-auto bg-slate-100">
       <h1 className='text-4xl'>Bugün Ne Yesem?</h1>
       <select ref={select} onChange={() => setTur(select.current.value)} className='text-center rounded-full p-2 bg-slate-200'>
         <option value={"aksam"}>Akşam Yemeği</option>
