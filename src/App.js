@@ -26,6 +26,7 @@ function App() {
   }
 
   function getSearchList(search) {
+    setYemek(null)
     let searchValue = search.toLowerCase()
     if (searchValue){
       const liste = yemekListesi.filter(el => el.ad.toLowerCase()===searchValue)
