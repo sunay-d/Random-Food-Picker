@@ -39,6 +39,14 @@ const yemekListesi = [
         malzeme: ["3 yumurta","1,5 su bardağı şeker","1 bardağa yakın ayçiçek yağı","1 bardak süt","2 bardak un","1 yemek kaşığı kakao","1 paket kabartma tozu"],
         tarif: ["Yumurta, şeker, yağ, süt ve kakao karıştırılır.","Karışımdan bir su bardağı kenara ayrılır.","Karışımın kalanına un ve kabartma tozu katılıp karıştırılır.","Yağlanmış tepsiye dökülür.","Fırına verilir.","Fırından çıakrdıktan 2-3 dk. sonra daha önce ayrılan 1 su bardağı karışım üzerine boşaltılır.","Soğuyunca kesilip isteğe göre üzerine hindistan cevizi serpilir."]
     },
+    {
+        id:4,
+        ad:"Kaşık Dökmesi",
+        tur: "cay",
+        resim: "https://i.nefisyemektarifleri.com/2019/04/24/kasik-dokmesi-peynirli-maydanozlu.jpg",
+        malzeme: ["2 yumurta","1 su bardağı süt","1 kahve fincanı sıvı yağ","1 tutam maydonoz, taze soğan, ıspanak, semizotu vs.","1 kase peynir","1 tutam tuz","1 paket kabartma tozu","1,5 su bardağı un","1 yemek kaşığı susam, çörekotu"],
+        tarif: [""]
+    },
 
 ]
 
